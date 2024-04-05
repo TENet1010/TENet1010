@@ -44,7 +44,7 @@ Check out some of my cool projects:
 
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TENet1010&show_icons=true&theme=radical)](https://github.com/TENet1010)
 
 ## Let's Connect 🤝
 
