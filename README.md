@@ -1,63 +1,28 @@
-- 👋 Hi, I’m @TENet1010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...🗿🗿🗿🗿🗿💀💀💀💀🗿🗿🗿
-# Hello, World! 👋
+<!-- Repo has been edited to be static, see comments for dynamic calls. -->
+hello! here's a little about me:
 
-I'm [Your Name], a passionate [Your Profession/Interest] from [Your Location]. Welcome to my GitHub profile!
+<h1>
+  i really like music :headphones:
+</h1>
 
-## About Me
+<!-- Nothing weird to see here -->
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  </a>
+</p>
 
-- 💻 I'm currently working on [Current Project/Interest].
-- 🌱 I'm currently learning [What You're Learning].
-- 💬 Ask me about [Your Expertise/Interest].
-- 📫 How to reach me: [Your Contact Information].
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [Interesting Fact About Yourself].
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
+</p>
+ 
+<p align="center">
+  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+</p>
 
-## Languages and Tools
+<p></p>
 
-Here are some of the languages and tools I'm proficient in:
-
-- [Language/Tool 1]
-- [Language/Tool 2]
-- [Language/Tool 3]
-- [Language/Tool 4]
-- [Language/Tool 5]
-
-## Projects
-
-Check out some of my cool projects:
-
-1. [Project 1](link)
-   - Description: [Brief Description]
-   - Technologies Used: [Technologies Used]
-   
-2. [Project 2](link)
-   - Description: [Brief Description]
-   - Technologies Used: [Technologies Used]
-   
-3. [Project 3](link)
-   - Description: [Brief Description]
-   - Technologies Used: [Technologies Used]
-
-## GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TENet1010&show_icons=true&theme=radical)](https://github.com/TENet1010)
-
-## Let's Connect 🤝
-
-Feel free to connect with me on:
-
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-
-## Thanks for Visiting!
-
-Thanks for checking out my GitHub profile. Have a great day! 😊
-
-<!---
-TENet1010/TENet1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
